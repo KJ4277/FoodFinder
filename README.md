@@ -6,8 +6,9 @@ FoodFinder is a website which allows users to enter an ingredient, and choose di
 
 - All passwords are hashed and kept secure
 - Account creation is only necessary to keep favourited meals saved under your account
-- If you just want to try the website out, use the following details
+- If you just want to try the website out, use the following details:
 
-  Username: user1
-  Password: password123
+Username: user1
+
+Password: password123
   
